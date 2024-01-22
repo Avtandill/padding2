@@ -1,0 +1,15 @@
+.title-primary {
+    font-size: 14px;
+}
+.text-primary {
+    color: #808080;
+}
+.news {
+    width: 550px;
+    height: 550px;
+    background-color: white;
+    border: 1px solid #B4B4B4;
+    padding-top: 96px;
+    padding-bottom: 96px;
+    padding-left: 119px;
+}
